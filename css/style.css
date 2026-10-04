@@ -79,7 +79,6 @@ main { padding-top: 70px; }
   content: "";
   position: absolute;
   inset: 0;
-  background: radial-gradient(circle at 80% 20%, rgba(201,151,58,.35), transparent 50%);
 }
 
 .hero-overlay {
